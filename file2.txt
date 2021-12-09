@@ -1,2 +1,4 @@
 Hello
 I am in file 2.txt
+How are you
+wie geht's??
